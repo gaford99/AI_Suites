@@ -1,0 +1,6 @@
+# dotenv environment variables file
+.env
+.env.test
+
+git add .gitignore
+git comit -m "adding .env.to .gitignore"
