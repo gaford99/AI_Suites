@@ -4,3 +4,7 @@
 
 git add .gitignore
 git comit -m "adding .env.to .gitignore"
+
+npm dotenv
+
+
